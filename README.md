@@ -1,4 +1,4 @@
-## About Me 
+## About Me :curly_haired_man:
 
 * This website is a static HTML website using semantic tags and minimal CSS. 
 * It is currently hosted on Github Pages.
